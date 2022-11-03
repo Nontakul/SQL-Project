@@ -1,0 +1,6 @@
+## restaurant database
+
+## requirements
+## 1. 5 tables + PK/FK ( google เพิ่ม reference)
+## 2. min 10 records
+## 3. select, where, join
